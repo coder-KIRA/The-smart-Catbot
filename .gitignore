@@ -63,3 +63,6 @@ docs/html
 
 # pynev
 .python-version
+
+#secrets
+.env
