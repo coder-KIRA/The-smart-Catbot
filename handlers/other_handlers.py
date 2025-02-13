@@ -1,6 +1,6 @@
 from aiogram import Router
 from aiogram.types import Message
-from lexicon.lexicon_ru import LEXICON_RU, CAT_PHRASES, CAT_FACTS
+from lexicon.lexicon_ru import LEXICON_RU, CAT_FACTS
 import aiohttp
 import random
 
